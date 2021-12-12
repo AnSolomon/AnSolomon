@@ -1,4 +1,8 @@
-### Hi there 👋
+안녕하세요!
+사람들에게 도움이 되는 개발자가 되고 싶은 안솔로몬입니다.
+
+
+
 
 <!--
 **AnSolomon/AnSolomon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
